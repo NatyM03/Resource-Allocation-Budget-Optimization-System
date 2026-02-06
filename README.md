@@ -22,7 +22,10 @@ This project represents my transition from academic mathematics to applied busin
 * **Strategic diversification:** the algorithm enforces the selection of at least one project per department (IT, HR, Marketing) to mitigate concentration risk.
 * **ROI maximization:** the mathematical objective is strictly tied to maximizing profitability.
 
-### Preview
-
-
 ---
+
+### Preview
+1.jpeg
+2.jpeg
+
+
