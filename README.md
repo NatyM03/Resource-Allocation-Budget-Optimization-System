@@ -7,8 +7,8 @@ The system assists managers in selecting the ideal project portfolio to **maximi
 ### Project evolution: from theory to business
 This project represents my transition from academic mathematics to applied business solutions.
 
-1.  **Academic origins:** the project started as university research where I applied the "Knapsack Problem" algorithm to optimize personal purchasing decisions under financial constraints.
-2.  **Corporate adaptation:** I identified that the same mathematical model is widely used in **Project Portfolio Management (PPM)** within banking and multinational contexts. I completely refactored the cod to solve a real-world capital allocation problem.
+1.  **Academic origins:** the project started as university research where I applied the "Knapsack Problem" algorithm to optimize personal purchasing decisions under financial constraints. ('Project_Manescu_Natalia')
+2.  **Corporate adaptation:** I identified that the same mathematical model is widely used in **Project Portfolio Management (PPM)** within banking and multinational contexts. I completely refactored the cod to solve a real-world capital allocation problem. ('Buget_optimizat')
 
 ---
 
