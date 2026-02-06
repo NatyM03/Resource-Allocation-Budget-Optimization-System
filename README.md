@@ -25,7 +25,7 @@ This project represents my transition from academic mathematics to applied busin
 ---
 
 ### Preview
-1.jpeg
-2.jpeg
+![Streamlit Dashboard Preview](1.jpeg)
+![Streamlit Dashboard Preview](2.jpeg)
 
 
